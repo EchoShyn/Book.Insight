@@ -8,4 +8,6 @@ de apresentar um design excelente e agradável para os olhos de quem vê =)</h2>
 
 visite em: https://github.com/Iago-Silva-Santos/Book.Insight/
 
-se tiver interesse no meu trabalho entre em contato comigo em: contatoiago384@gmail.com
+<p style="border-left: 4px solid green;">se tiver interesse no meu trabalho entre em contato comigo em:</p>
+<br />
+contatoiago384@gmail.com
