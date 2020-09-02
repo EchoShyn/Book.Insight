@@ -1,4 +1,4 @@
-<h1>Olá este é o readme.md do meu projeto, ou seja, 
+<h1>Olá, este é o readme.md do meu projeto, ou seja, 
 <br />
 esta é uma forma de apresentar-lo para você.</h1>
 
