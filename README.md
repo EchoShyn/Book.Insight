@@ -7,3 +7,5 @@ esta é uma forma de apresentar-lo para você.</h1>
 de apresentar um design excelente e agradável para os olhos de quem vê =)</h2>
 
 visite em: https://github.com/Iago-Silva-Santos/Book.Insight/
+
+se tiver interesse no meu trabalho entre em contato comigo em: contatoiago384@gmail.com
