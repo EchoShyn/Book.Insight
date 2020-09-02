@@ -8,7 +8,7 @@ de apresentar um design excelente e agradável para os olhos de quem vê =)</h2>
 
 visite em:
 <br />
-https://github.com/Iago-Silva-Santos/Book.Insight/
+https://Iago-Silva-Santos.github.io/Book.Insight/
 
 se tiver interesse no meu trabalho entre em contato comigo em:
 <br />
