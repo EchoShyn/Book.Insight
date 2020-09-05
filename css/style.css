@@ -120,7 +120,7 @@ html,body{
 }
 
 .input-submit input[type=submit]:hover{
-	color: #2F4F4F;
+	color: white;
 	background-color: #00FA9A;
 	border-radius: 10px;
 	border-top: 3px solid rgb(46,139,87);
