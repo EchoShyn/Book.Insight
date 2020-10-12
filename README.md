@@ -4,7 +4,7 @@ esta é uma forma de apresentar-lo para você.</h1>
 
 <h2>Book.Insight é uma landing-page que está sendo desenvolvida com o propósito
 <br />
-de apresentar um design excelente e agradável para os olhos de quem vê =)</h2>
+de apresentar um design excelente e agradável para os olhos de quem a ver. =)</h2>
 
 visite em:
 <br />
