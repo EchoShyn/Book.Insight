@@ -65,7 +65,7 @@ html,body{
 
 .form img{
 	margin-top: 35px;
-	margin-right: -265px;
+	margin-right: -270px;
 	padding: 50px;
 	float: right;
 }
@@ -164,4 +164,8 @@ body{
 	border-bottom: 3px solid rgb(46,139,87);
 	border-left: 3px solid rgb(46,139,87);
 	border-right: 3px solid rgb(46,139,87);
+}
+
+.input-submit input[type=submit]:active{
+	outline: none;
 }
