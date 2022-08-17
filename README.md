@@ -7,3 +7,5 @@ visite em:
 https://Iago-Silva-Santos.github.io/Book.Insight/
 
 <hr />
+
+git push -u link do repositório e nome da branch (cria uma nova branch a faz o upload dos arquivos no repositório informado)
