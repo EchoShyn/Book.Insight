@@ -10,6 +10,13 @@ html,body{
 	box-sizing: border-box;
 }
 
+/*edit do readme*/
+
+.readh{
+	font-size: 30px;
+	color: red;
+}
+
 
 .center{
 	width: 1200px;
