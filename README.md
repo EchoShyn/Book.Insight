@@ -1,9 +1,8 @@
-<link href="css/style.css" rel="stylesheet" />
 Olá, este é o readme.md de Book.Insight
 
-<h2 class="readh">Book.Insight é uma landing-page que está sendo desenvolvida com o propósito de apresentar um design agradável.</h2>
+<h2>Book.Insight é uma landing-page que está sendo desenvolvida com o propósito de apresentar um design limpo e agradável.</h2>
 
-visite em:
+<p style="padding: 20px;">visite em:</p>
 <br />
 https://Iago-Silva-Santos.github.io/Book.Insight/
 
